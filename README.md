@@ -1,5 +1,9 @@
 # We — FGV Concurso PDF Scraper & Downloader
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4-5B4638?logo=Python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A web scraper that crawls **FGV Conhecimento** (Fundação Getulio Vargas) public exam/contest pages, extracts all PDF links, downloads them, and catalogs them by contest.
 
 ## Features
